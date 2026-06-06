@@ -1,0 +1,46 @@
+{
+  "Events": [
+    {
+      "Id": "49c7cfdf-91e1-4817-96a3-0f4b9e018b96",
+      "Name": "AI Workshop",
+      "TotalSeats": 50,
+      "EventDate": "2026-08-15T00:00:00",
+      "Registrations": [
+        {
+          "Id": "4cd5a0e9-0ed1-4d5b-b2f8-c7d116d983ca",
+          "UserName": "Ayesha",
+          "RegisteredAt": "2026-06-06T15:46:15.160232Z",
+          "IsCancelled": true
+        }
+      ]
+    },
+    {
+      "Id": "f36d533f-1d25-47a5-b799-94f74f1a1857",
+      "Name": "Fun Fair",
+      "TotalSeats": 100,
+      "EventDate": "2026-07-15T00:00:00",
+      "Registrations": [
+        {
+          "Id": "9ee59f42-d366-440e-a8f8-257a313de194",
+          "UserName": "Ayesha",
+          "RegisteredAt": "2026-06-06T16:28:39.4991973Z",
+          "IsCancelled": true
+        }
+      ]
+    },
+    {
+      "Id": "1db8b3cd-8526-4a5e-ab5c-e80123790470",
+      "Name": "Meeting",
+      "TotalSeats": 3,
+      "EventDate": "2026-06-07T00:00:00",
+      "Registrations": [
+        {
+          "Id": "03745811-75d2-432f-997b-605430a24d2d",
+          "UserName": "Ali",
+          "RegisteredAt": "2026-06-06T18:02:49.3193796Z",
+          "IsCancelled": false
+        }
+      ]
+    }
+  ]
+}
